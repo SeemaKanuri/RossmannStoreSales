@@ -1,4 +1,4 @@
-# RossmannStoreSales
+# Rossmann Store Sales User Interface and Analytical solution
 
 
 How to run the codes?
